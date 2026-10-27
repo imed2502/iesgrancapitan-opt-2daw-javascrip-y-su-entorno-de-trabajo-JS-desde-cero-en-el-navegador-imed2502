@@ -2,6 +2,8 @@
 
 El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tu tus datos personales.
 
+[Enlace](https://imed2502.github.io/iesgrancapitan-opt-2daw-javascrip-y-su-entorno-de-trabajo-JS-desde-cero-en-el-navegador-imed2502/) a página de GitHub pages
+
 ## Por qué REACT
 
 - REACT es una biblioteca de JavaScript para construir interfaces de usuario.
